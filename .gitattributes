@@ -1,2 +1,2 @@
-*linguist-vendored
-*.hbs linguist-vendored=false
+*.hbs linguist-detectable=false
+*.js linguist-detectable=true
